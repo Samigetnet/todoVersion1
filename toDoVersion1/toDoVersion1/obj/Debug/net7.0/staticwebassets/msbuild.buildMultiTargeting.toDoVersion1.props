@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/toDoVersion1.props" />
+</Project>
